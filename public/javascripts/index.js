@@ -97,7 +97,7 @@ var that=this;
 
 
 */
-var url='http://192.168.2.247:3000/gateway/';
+var url='/gateway/';
 // url='http://192.168.2.247:3000/admin/pipe';
 var that=this;
 var received=0;
